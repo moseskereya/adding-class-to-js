@@ -1,0 +1,43 @@
+.mount{
+    width: 300px;
+    margin: 20px auto;
+    height: 250px;
+    color: #fff;
+    background-color: rgb(243, 127, 12);
+    background-image: url(./img/images\ \(16\).jfif);
+}
+
+.main{
+    width: 300px;
+    margin: 20px auto;
+    height: 250px;
+    text-align: center;
+    color: rgb(243, 4, 4);
+}
+.button{
+    padding: 10px 20px;
+    background-color: bisque;
+    color: rgb(0, 0, 0);
+    outline: none;
+    border: none;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button1{
+    padding: 10px 20px;
+    background-color: bisque;
+    color: rgb(0, 0, 0);
+    outline: none;
+    border: none;
+    margin: 10px;
+}
+.mount1{
+    width: 300px;
+    margin: 20px auto;
+    height: 250px;
+    color: #fff;
+    background-image:url('./img/images\ \(11\).jfif');
+}
